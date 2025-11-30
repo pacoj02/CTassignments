@@ -1,0 +1,35 @@
+Written by: Francisco Juarez
+Date: 11-30-2025
+Project title: StoryWeaver Test Plan
+
+Introduction:
+       Overview: This app is designed for collaborative and sequential storytelling, a digital version of the classic game of Telephone or Mad Libs. 
+                    The premise relies purely on user-generated text and imagination, facilitated by a unique set of constraints to make each story unexpected and fun.
+       Test Plan Objective: To insure a smooth user interface and game flow without glitches on Latest Android based Operating Systems.
+       Scope: We will test users can 1. Register and create a Username that doesnt already exist in the database.
+                                     2. Log in
+                                     3. Search for Specific Story Tellers or join Random Circles.
+                                     4. Join a "Circle" of 4-10 Story Tellers
+              We will also test to ensure that the next Story-Teller only recieves the previous sentence and is 
+                    allowed to add thier own sentence to coninue the story.
+              Finally we will verify the final story gets assembled in the correct order.
+
+Resources:
+       Team: StoryWeaver QA Team 7: Mark Twain       - Load 
+                                    John the Baptist - Function
+                                    Genghis Khan     - Performance
+Device: Galaxy Phone S23-S25
+        System: Android 15-16
+        Browser: Chrome
+        Version: 152.0.7444.172
+
+Timeframe: 11/29/2025 08:00 PST - 12/01/2025 16:00 PST
+        Every 4 hours we will regroup and reevaluate our process and procedure
+
+Deliverables:Test Cases 
+             Bug Reports
+             Summery
+Risks: Time frame
+       Human error
+
+Communication: Team will colaborate via GitHub and Jira for all project specifics.
